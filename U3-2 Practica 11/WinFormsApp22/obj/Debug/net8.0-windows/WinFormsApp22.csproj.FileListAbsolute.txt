@@ -1,0 +1,16 @@
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\bin\Debug\net8.0-windows\WinFormsApp22.exe
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\bin\Debug\net8.0-windows\WinFormsApp22.deps.json
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\bin\Debug\net8.0-windows\WinFormsApp22.runtimeconfig.json
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\bin\Debug\net8.0-windows\WinFormsApp22.dll
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\bin\Debug\net8.0-windows\WinFormsApp22.pdb
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.Form1.resources
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.csproj.GenerateResource.cache
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.AssemblyInfoInputs.cache
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.AssemblyInfo.cs
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.csproj.CoreCompileInputs.cache
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.dll
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\refint\WinFormsApp22.dll
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.pdb
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\WinFormsApp22.genruntimeconfig.cache
+C:\Users\elfoc\source\repos\WinFormsApp22\WinFormsApp22\obj\Debug\net8.0-windows\ref\WinFormsApp22.dll
