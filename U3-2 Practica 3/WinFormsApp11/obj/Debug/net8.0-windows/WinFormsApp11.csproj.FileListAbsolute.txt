@@ -1,0 +1,6 @@
+C:\Users\elfoc\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.Form1.resources
+C:\Users\elfoc\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.GenerateResource.cache
+C:\Users\elfoc\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elfoc\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfoInputs.cache
+C:\Users\elfoc\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.AssemblyInfo.cs
+C:\Users\elfoc\source\repos\WinFormsApp11\WinFormsApp11\obj\Debug\net8.0-windows\WinFormsApp11.csproj.CoreCompileInputs.cache
